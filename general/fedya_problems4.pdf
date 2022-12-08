@@ -1,0 +1,103 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{ulem}
+\usepackage[english,russian]{babel}
+\usepackage{makeidx}
+\usepackage{indentfirst}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{geometry}
+
+\begin{document} 
+\newgeometry{left=2cm, right=1.5cm, top=2cm, bottom=2cm}
+	
+\section{Раскройте скобки}
+\begin{multicols}{3}
+	\noindent
+	\begin{equation}
+		(c + 3)^2 - (c - 2b)(c + 2b) = 
+	\end{equation}
+	\begin{equation}
+		(a - x)(7 + d) + (x - a)(2d - 1) = 
+	\end{equation}
+	\begin{equation}
+		(x - 3)^2 - (x + 1)^2 = 
+	\end{equation}
+	\begin{equation}
+		(a + b)^3 - (a + b)^3 =
+	\end{equation}
+	\begin{equation}
+		(x - 1)^3 - x (x - 1)^2 =
+	\end{equation}
+	\begin{equation}
+		(2x + 3)^2 + (a - 3)(a + 3) - (a + x)^2 
+	\end{equation}
+\end{multicols}
+
+\section{Решите уравнение}
+	\begin{multicols}{3}
+		\noindent
+		\begin{equation}
+			3x - 8 = x + 2
+		\end{equation}
+		\begin{equation}
+			7x - 1 = \frac{4}{3}(4x + 1)
+		\end{equation}
+		\begin{equation}
+			3(x + 8) - 4(0.25x + 1) = 0 
+		\end{equation}
+		\begin{equation}
+			(x - 5)^2 = (x + 1)^2
+		\end{equation}
+		\begin{equation}
+			(3x + 8)^2 = (3x - 2)^2
+		\end{equation}
+		\begin{equation}
+			(x + 3)^3 = x^3 + 9x^2 - 6x + 4
+		\end{equation}
+	\end{multicols}
+
+\section{Найдите точки пересечения графиков функции $f_1(x)$ и $f_2(x)$}
+\begin{multicols}{2}
+	\noindent
+	\begin{equation}
+		f_1(x) = 4x - 1; \quad f_2(x) = -2x - 2
+	\end{equation}
+	\begin{equation}
+		f_1(x) =  8x - 3; \quad f_2(x) = -f_1(x)
+	\end{equation}
+	\begin{equation}
+		f_1(x) =  x^2 - x + 3; \quad f_2(x) = x^2 + x - 1
+	\end{equation}
+\end{multicols}
+
+\section{Упростите выражение}
+\begin{multicols}{3}
+	\noindent
+	\begin{equation}
+		\frac{4x^2 + 16 + 16x}{2x + 4}
+	\end{equation}
+	\begin{equation}
+		\frac{(b + bc)(ac + d)}{b}
+	\end{equation}
+	\begin{equation}
+		\frac{b^2 + 3c^2 - 4c \cdot c}{b + c}
+	\end{equation}
+	\begin{equation}
+		\frac{(x + 3)^2 - 3(2x + 3)}{x^2}		
+	\end{equation}
+	\begin{equation}
+		\frac{(c - 3)(c + 3) - (c - 1)(c + 1)}{2}
+	\end{equation}
+	\begin{equation}
+		\frac{(a+b)^2 - (a-b)^2}{6a^2 b + 2bb^3}
+	\end{equation}
+\end{multicols}
+
+
+	
+
+	
+\end{document}
